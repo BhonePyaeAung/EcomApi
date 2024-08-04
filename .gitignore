@@ -52,3 +52,5 @@ build/
 
 # Linux
 *~
+# Environment Variables
+.env
